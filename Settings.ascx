@@ -51,7 +51,7 @@
         </td>
     </tr>
 <tr>
-    <td class="auto-style2">
+    <td class="auto-style2"> 
          </td>
         <td>
         <asp:Label ID="Label1" runat="server"   Text="Este es el Repeater Body:"></asp:Label>
